@@ -18,7 +18,6 @@ Close
 **Скриншот ошибки при установке Docker:**  
 ![Docker_Desktop_Installer_(1)_SJNZ03Eoms](https://github.com/user-attachments/assets/38c94e18-275c-4c88-98b7-b44cb7575a67)
 
-
 ### Причина:
 Ошибка возникает, если ваша версия Windows не поддерживается для установки Docker. Docker требует Windows 10 Pro/Enterprise/Home версии 19044 или выше.
 
